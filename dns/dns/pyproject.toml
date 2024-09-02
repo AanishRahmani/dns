@@ -9,6 +9,10 @@ readme = "README.md"
 python = "^3.12"
 python-whois = "^0.9.4"
 whois = "^1.20240129.2"
+scapy = "^2.5.0"
+pyshark = "^0.6"
+
+
 
 
 [build-system]
